@@ -1,5 +1,7 @@
 # Official Prompt Image Gallery
 
+> **Moved.** This gallery now lives in [oldwinter/official-prompt-gallery](https://github.com/oldwinter/official-prompt-gallery) under [`image/`](https://github.com/oldwinter/official-prompt-gallery/tree/main/image), with full history. This repository is archived; its Pages site redirects to <https://oldwinter.github.io/official-prompt-gallery/image/>.
+
 This repository is a static evidence sheet for two image prompts copied from
 official OpenAI and xAI guides. Open `index.html` locally or visit the GitHub
 Pages site after deployment. The first screen contains the first prompt, its
